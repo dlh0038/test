@@ -1,25 +1,30 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Denny\\test\\test.csproj": {}
+    "C:\\Users\\dhood\\OneDrive - Federal Bureau of Investigation\\Documents\\test\\test.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Denny\\test\\test.csproj": {
+    "C:\\Users\\dhood\\OneDrive - Federal Bureau of Investigation\\Documents\\test\\test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Denny\\test\\test.csproj",
+        "projectUniqueName": "C:\\Users\\dhood\\OneDrive - Federal Bureau of Investigation\\Documents\\test\\test.csproj",
         "projectName": "test",
-        "projectPath": "C:\\Users\\Denny\\test\\test.csproj",
-        "packagesPath": "C:\\Users\\Denny\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Denny\\test\\obj\\",
+        "projectPath": "C:\\Users\\dhood\\OneDrive - Federal Bureau of Investigation\\Documents\\test\\test.csproj",
+        "packagesPath": "C:\\Users\\dhood\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\dhood\\OneDrive - Federal Bureau of Investigation\\Documents\\test\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Denny\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\dhood\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "xcZQ+aXS48NWTP83ydKSkoEcaOBRl3kWSJqlTIUY6l0=",
+  "Hash": "CGq/upmhSX6SZdLWDDT+y4S0SOlQLd0cTIePhPp8Pr0=",
   "Source": "test",
   "BasePath": "_content/test",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "test\\wwwroot",
       "Source": "test",
-      "ContentRoot": "C:\\Users\\Denny\\test\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\dhood\\OneDrive - Federal Bureau of Investigation\\Documents\\test\\wwwroot\\",
       "BasePath": "_content/test",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\Denny\\test\\obj\\Debug\\net6.0\\scopedcss\\bundle\\test.styles.css",
+      "Identity": "C:\\Users\\dhood\\OneDrive - Federal Bureau of Investigation\\Documents\\test\\obj\\Debug\\net6.0\\scopedcss\\bundle\\test.styles.css",
       "SourceId": "test",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Denny\\test\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\dhood\\OneDrive - Federal Bureau of Investigation\\Documents\\test\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
       "BasePath": "_content/test",
       "RelativePath": "test.styles.css",
       "AssetKind": "All",
@@ -31,13 +31,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Denny\\test\\obj\\Debug\\net6.0\\scopedcss\\bundle\\test.styles.css"
+      "OriginalItemSpec": "C:\\Users\\dhood\\OneDrive - Federal Bureau of Investigation\\Documents\\test\\obj\\Debug\\net6.0\\scopedcss\\bundle\\test.styles.css"
     },
     {
-      "Identity": "C:\\Users\\Denny\\test\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\test.bundle.scp.css",
+      "Identity": "C:\\Users\\dhood\\OneDrive - Federal Bureau of Investigation\\Documents\\test\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\test.bundle.scp.css",
       "SourceId": "test",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Denny\\test\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\dhood\\OneDrive - Federal Bureau of Investigation\\Documents\\test\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/test",
       "RelativePath": "test.bundle.scp.css",
       "AssetKind": "All",
@@ -48,13 +48,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Denny\\test\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\test.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\dhood\\OneDrive - Federal Bureau of Investigation\\Documents\\test\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\test.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\Denny\\test\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "Identity": "C:\\Users\\dhood\\OneDrive - Federal Bureau of Investigation\\Documents\\test\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
       "SourceId": "test",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Denny\\test\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\dhood\\OneDrive - Federal Bureau of Investigation\\Documents\\test\\wwwroot\\",
       "BasePath": "_content/test",
       "RelativePath": "css/bootstrap/bootstrap.min.css",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\Denny\\test\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\dhood\\OneDrive - Federal Bureau of Investigation\\Documents\\test\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
       "SourceId": "test",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Denny\\test\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\dhood\\OneDrive - Federal Bureau of Investigation\\Documents\\test\\wwwroot\\",
       "BasePath": "_content/test",
       "RelativePath": "css/bootstrap/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -85,27 +85,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Denny\\test\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+      "Identity": "C:\\Users\\dhood\\OneDrive - Federal Bureau of Investigation\\Documents\\test\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
       "SourceId": "test",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Denny\\test\\wwwroot\\",
-      "BasePath": "_content/test",
-      "RelativePath": "css/open-iconic/FONT-LICENSE",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\open-iconic\\FONT-LICENSE"
-    },
-    {
-      "Identity": "C:\\Users\\Denny\\test\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
-      "SourceId": "test",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Denny\\test\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\dhood\\OneDrive - Federal Bureau of Investigation\\Documents\\test\\wwwroot\\",
       "BasePath": "_content/test",
       "RelativePath": "css/open-iconic/font/css/open-iconic-bootstrap.min.css",
       "AssetKind": "All",
@@ -119,10 +102,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\Denny\\test\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
+      "Identity": "C:\\Users\\dhood\\OneDrive - Federal Bureau of Investigation\\Documents\\test\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
       "SourceId": "test",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Denny\\test\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\dhood\\OneDrive - Federal Bureau of Investigation\\Documents\\test\\wwwroot\\",
       "BasePath": "_content/test",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.eot",
       "AssetKind": "All",
@@ -136,10 +119,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot"
     },
     {
-      "Identity": "C:\\Users\\Denny\\test\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
+      "Identity": "C:\\Users\\dhood\\OneDrive - Federal Bureau of Investigation\\Documents\\test\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
       "SourceId": "test",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Denny\\test\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\dhood\\OneDrive - Federal Bureau of Investigation\\Documents\\test\\wwwroot\\",
       "BasePath": "_content/test",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.otf",
       "AssetKind": "All",
@@ -153,10 +136,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf"
     },
     {
-      "Identity": "C:\\Users\\Denny\\test\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
+      "Identity": "C:\\Users\\dhood\\OneDrive - Federal Bureau of Investigation\\Documents\\test\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
       "SourceId": "test",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Denny\\test\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\dhood\\OneDrive - Federal Bureau of Investigation\\Documents\\test\\wwwroot\\",
       "BasePath": "_content/test",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.svg",
       "AssetKind": "All",
@@ -170,10 +153,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg"
     },
     {
-      "Identity": "C:\\Users\\Denny\\test\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
+      "Identity": "C:\\Users\\dhood\\OneDrive - Federal Bureau of Investigation\\Documents\\test\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
       "SourceId": "test",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Denny\\test\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\dhood\\OneDrive - Federal Bureau of Investigation\\Documents\\test\\wwwroot\\",
       "BasePath": "_content/test",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.ttf",
       "AssetKind": "All",
@@ -187,10 +170,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf"
     },
     {
-      "Identity": "C:\\Users\\Denny\\test\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
+      "Identity": "C:\\Users\\dhood\\OneDrive - Federal Bureau of Investigation\\Documents\\test\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
       "SourceId": "test",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Denny\\test\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\dhood\\OneDrive - Federal Bureau of Investigation\\Documents\\test\\wwwroot\\",
       "BasePath": "_content/test",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.woff",
       "AssetKind": "All",
@@ -204,10 +187,27 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff"
     },
     {
-      "Identity": "C:\\Users\\Denny\\test\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
+      "Identity": "C:\\Users\\dhood\\OneDrive - Federal Bureau of Investigation\\Documents\\test\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
       "SourceId": "test",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Denny\\test\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\dhood\\OneDrive - Federal Bureau of Investigation\\Documents\\test\\wwwroot\\",
+      "BasePath": "_content/test",
+      "RelativePath": "css/open-iconic/FONT-LICENSE",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\open-iconic\\FONT-LICENSE"
+    },
+    {
+      "Identity": "C:\\Users\\dhood\\OneDrive - Federal Bureau of Investigation\\Documents\\test\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
+      "SourceId": "test",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\dhood\\OneDrive - Federal Bureau of Investigation\\Documents\\test\\wwwroot\\",
       "BasePath": "_content/test",
       "RelativePath": "css/open-iconic/ICON-LICENSE",
       "AssetKind": "All",
@@ -221,10 +221,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\ICON-LICENSE"
     },
     {
-      "Identity": "C:\\Users\\Denny\\test\\wwwroot\\css\\open-iconic\\README.md",
+      "Identity": "C:\\Users\\dhood\\OneDrive - Federal Bureau of Investigation\\Documents\\test\\wwwroot\\css\\open-iconic\\README.md",
       "SourceId": "test",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Denny\\test\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\dhood\\OneDrive - Federal Bureau of Investigation\\Documents\\test\\wwwroot\\",
       "BasePath": "_content/test",
       "RelativePath": "css/open-iconic/README.md",
       "AssetKind": "All",
@@ -238,10 +238,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\README.md"
     },
     {
-      "Identity": "C:\\Users\\Denny\\test\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Users\\dhood\\OneDrive - Federal Bureau of Investigation\\Documents\\test\\wwwroot\\css\\site.css",
       "SourceId": "test",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Denny\\test\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\dhood\\OneDrive - Federal Bureau of Investigation\\Documents\\test\\wwwroot\\",
       "BasePath": "_content/test",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -255,10 +255,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\Denny\\test\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\dhood\\OneDrive - Federal Bureau of Investigation\\Documents\\test\\wwwroot\\favicon.ico",
       "SourceId": "test",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Denny\\test\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\dhood\\OneDrive - Federal Bureau of Investigation\\Documents\\test\\wwwroot\\",
       "BasePath": "_content/test",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
